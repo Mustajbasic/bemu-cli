@@ -1,6 +1,6 @@
 {
     "name": "bemu-cli",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "description": "BemuCLI for creating simple NodeJS elements",
     "main": "index.js",
     "scripts": {
