@@ -1,0 +1,23 @@
+{
+    "name": "bemu-cli",
+    "version": "1.1.0",
+    "description": "BemuCLI for creating simple NodeJS elements",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "bin": {
+        "bemu-cli": "./bin/global.js"
+    },
+    "preferGlobal": true,
+    "author": "Belmin Mustajbasic",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Mustajbasic/bemu-cli.git"
+    },
+    "bugs": {
+        "url": "https://github.com/Mustajbasic/bemu-cli/issues"
+    },
+    "homepage": "https://github.com/Mustajbasic/bemu-cli#readme"
+}
