@@ -5,6 +5,7 @@ const rootPath = process.cwd();
 const GenerateRoute = require('./command-handlers/generate-route');
 const GenerateApp = require('./command-handlers/generate-app');
 const Help = require('./command-handlers/help');
+
 module.exports = () => {
     if(!cmd) {
         console.log('Missing command');
