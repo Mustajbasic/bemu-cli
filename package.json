@@ -19,5 +19,9 @@
     "bugs": {
         "url": "https://github.com/Mustajbasic/bemu-cli/issues"
     },
-    "homepage": "https://github.com/Mustajbasic/bemu-cli#readme"
+    "homepage": "https://github.com/Mustajbasic/bemu-cli#readme",
+    "dependencies": {
+        "chalk": "^2.4.1",
+        "format-json": "^1.0.3"
+    }
 }
