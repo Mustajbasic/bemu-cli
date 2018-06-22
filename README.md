@@ -8,9 +8,11 @@
 
 ## Example usage:
 To generate a basic app, navigate to the folder where you want to generate the app and do:
+
     bemi-cli app AppNameInCamelCase
 
 To generate a route, navigate to the folder where you want to generate the route and do:
+
     bemu-cli route RouteNameInCameCase
 
 For help do:
